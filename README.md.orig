@@ -1,0 +1,11 @@
+first edit
+
+second edit
+
+third edit on a branch
+
+<<<<<<< HEAD
+someone else also made changes
+=======
+changed edit
+>>>>>>> badUpdates
